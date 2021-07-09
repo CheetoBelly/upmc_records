@@ -20,8 +20,8 @@
   * 6/17 拍MRI，结果见[图片]()，和[报告](https://github.com/CheetoBelly/upmc_records/blob/main/MyUPMC%20-%20Test%20Details.pdf)
   *	6/29 第二次门诊：我没有听懂医生讲什么，好像是软骨的问题, 给我在踝关节处注射：[Kenalog 40mg, Naropin 0.5%]（https://github.com/CheetoBelly/upmc_records/blob/main/Injection.jpeg）
 * 7/7 
-  * 放假在家做了点轻重量家务，总共站了约有3-4小时，发现关节有淤青[图片](https://github.com/CheetoBelly/upmc_records/blob/main/bruise.jpeg)
+  * 放假在家做了点轻重量家务，总共站了约有3-4小时，发现关节有淤血[图片](https://github.com/CheetoBelly/upmc_records/blob/main/bruise.jpeg)
 * 7/8
-  * 去紧急护理中心（不是医院）找医生，担心有感染，建议热敷
-  * 打电话给UPMC，护士和医师认为It's very not likely infected，即不太可能有感染。建议冰敷、吃抗消炎药Advil/Ibuprofen/Tynenol
+  * 去紧急护理中心（不是医院）找医生，认为注射一周后才出现淤血，担心有感染，建议热敷
+  * 打电话给UPMC，护士和医师认为不太可能有感染。建议冰敷、吃抗消炎药Advil/Ibuprofen/Tynenol
   
