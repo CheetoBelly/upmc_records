@@ -17,7 +17,7 @@
 ## 2021
 * 6月，UPMC Dr. A.Kline 
   * 第一次门诊：因为之后没有再发生过扭伤，估计韧带没有问题， 建议拍MRI
-  * 6/17 拍MRI，结果见[报告](https://github.com/CheetoBelly/upmc_records/blob/main/MyUPMC%20-%20Test%20Details.pdf). 图片不是常规图片格式，在光盘里，需要运行光盘里的程序Philips iSite Viewer才能看。
+  * 6/17 拍MRI，结果见[报告](https://github.com/CheetoBelly/upmc_records/blob/main/MyUPMC%20-%20Test%20Details.pdf). **另外**，我的MRI记录不是常规图片格式，在光盘里，需要运行光盘里的程序Philips iSite Viewer才能看。
   *	6/29 第二次门诊：我没有听懂医生讲什么，好像是软骨的问题.他说治疗的话我可以选择1.口服药物 2.打针 我想口服可能有点保守，打针问题不大，选了打针。Dr. Kline在踝关节处注射：[Kenalog 40mg, Naropin 0.5](https://github.com/CheetoBelly/upmc_records/blob/main/Injection.jpeg)
 * 7/7 
   * 放假在家做了点轻重量家务，总共站了约有3-4小时，发现关节有淤血[图片](https://github.com/CheetoBelly/upmc_records/blob/main/bruise.jpeg)
